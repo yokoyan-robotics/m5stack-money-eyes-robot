@@ -1,0 +1,19 @@
+# VS Code settings
+.vscode/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Build artifacts
+build/
+.build/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Audio files (if you want to exclude them)
+# *.wav
+# *.mp3
