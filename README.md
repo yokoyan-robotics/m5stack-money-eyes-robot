@@ -13,6 +13,10 @@ A charming robot face animation project for M5Stack Basic featuring random eye m
 
 ## 🎯 What This Robot Does
 
+| ![](docs/main1.jpg) | ![](docs/main2.jpg) |
+|:-------------------:|:-------------------:|
+| *Final setup (M5 BOTTOM not required)*      | *The moment the “Money” sound plays*      |
+
 - 👀 **Realistic Eye Movement**: Eyes randomly look around like they're alive
 - 😊 **Natural Blinking**: Blinks every 2-5 seconds, just like real eyes
 - 💰 **Money Mode**: Eyes transform into "$" symbols every 4-8 seconds
