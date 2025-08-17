@@ -44,6 +44,7 @@ That's when I decided to use an external I2S amplifier (MAX98357A) to achieve cr
 Only 6 connections needed! Here's the actual wiring setup:
 
 ![Actual Wiring Photo](docs/wiring_photo.jpg)
+
 *Actual connection photo showing the 6-wire setup*
 
 | Wire Color | MAX98357A Pin | M5Stack Basic Pin | Pin Location | Purpose |
