@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+
+## Third-Party Assets
+
+### Audio Files
+
+**cash_44_stereo.wav**
+- Source: OtoLogic (https://otologic.jp/)
+- License: Free for commercial and non-commercial use
+- License URL: https://otologic.jp/free/license.html
+- Used under the terms specified by the original creator
+
+The audio file included in this project is provided by OtoLogic and is used
+in accordance with their licensing terms. The MIT License above applies only
+to the source code, not to the audio assets.
